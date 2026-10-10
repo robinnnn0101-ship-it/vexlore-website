@@ -1,0 +1,262 @@
+[
+  {
+    "width": 320,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 360,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 375,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 390,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 414,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 480,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 639,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 640,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 767,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 768,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 820,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 900,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 1023,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 1024,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 1280,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 1440,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 1535,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 1536,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 1920,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 2560,
+    "height": 900,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 667,
+    "height": 375,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "status": "PASS",
+    "checks": [
+      "content bounds",
+      "grid columns",
+      "navigation",
+      "sticky header"
+    ]
+  },
+  {
+    "status": "PASS",
+    "checks": [
+      "menu resize and backdrop",
+      "scanner error",
+      "long scanner result",
+      "touch targets"
+    ]
+  },
+  {
+    "status": "PASS",
+    "checks": [
+      "keyboard focus",
+      "hover motion",
+      "reduced motion",
+      "no runtime errors"
+    ]
+  }
+]

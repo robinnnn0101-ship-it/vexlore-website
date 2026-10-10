@@ -1,0 +1,30 @@
+{
+  "name": "vexlore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test:responsive": "npm run build && node scripts/responsive-audit.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.45.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "tailwind-merge": "^3.7.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "autoprefixer": "^10.6.0",
+    "postcss": "^8.5.28",
+    "puppeteer-core": "^25.10.0",
+    "tailwindcss": "^3.4.19",
+    "vite": "^8.3.0"
+  }
+}

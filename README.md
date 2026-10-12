@@ -10,7 +10,7 @@ Official website for **VEXLORE** – token research tools.
 
 - Token scanner (CA / 0x / GitHub)
 - Links to Telegram bot, Chrome & Edge extensions
-- Quantumproof Chain info
+- Quantumproof Chain info (Vexlore chain)
 - Community & support links
 
 ---
